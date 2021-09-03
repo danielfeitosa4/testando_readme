@@ -71,7 +71,9 @@ Se o README tiver poucos tópicos pode fazer inline, com HTML:
 <h1>Imagens e Gifs:</h1>
 
 <h1 align="center">
-  <img alt="Deadpool" title="#DeadPool" src="deadpool.jpg"/>
+  <div>
+    <img alt="Deadpool" title="#DeadPool" src="imagens/deadpool.jpg"/>
+  </div>
 </h1>
 
 Exemplo de como adicionar um banner com markdown:
@@ -91,7 +93,7 @@ Feito com ❤️ por Daniel Feitosa 👋🏽 Entre em contato!
 
 
 <a href="https://blog.rocketseat.com.br/author/thiago/">
-<img style = "border-radius: 50%;" src = "EU.jpg" width = "100px;" alt = "" />
+<img style = "border-radius: 50%;" src = "imagens/EU.jpg" width = "100px;" alt = "" />
  <br />
  <sub> <b> Daniel Feitosa </b> </sub> </a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat"> 🚀 </a>
 
