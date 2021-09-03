@@ -1,5 +1,5 @@
 # testando_readme
- Repositório feito para treinar comandos no meu Readme
+ Repositório feito para treinar comandos no meu Readme, vamos nessa!
 
  # Nome do Projeto 
 ou
