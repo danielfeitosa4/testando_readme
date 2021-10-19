@@ -1,7 +1,9 @@
-# testando_readme
- Repositório feito para treinar comandos no meu Readme, vamos nessa!
-
- # Nome do Projeto 
+# **Testando o ~~README~~**
+## Repositório feito para treinar comandos no meu Readme. 
+---
+### Vamos nessa!
+---
+# Nome do Projeto 
 ou
 <h1 align="center">Nome do Projeto</h1>
 
